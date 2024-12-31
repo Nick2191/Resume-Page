@@ -1,3 +1,3 @@
-# Resume-Capstone-1
-Personal Resume Capstone Project
+# Personal Resume for Nick Kottis
+Personal Resume
 For Nick Kottis. All Rights Reserved
