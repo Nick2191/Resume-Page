@@ -1,3 +1,4 @@
-# Personal Resume for Nick Kottis
+# Personal Resume for aspiring web developer Nick Kottis
 Personal Resume
-For Nick Kottis. All Rights Reserved
+This page is in alpha phase, and will be continually updated. 
+
